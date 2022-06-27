@@ -1,2 +1,2 @@
 #!/bin/Bash
-cat smile
+echo "\"(Ôo)'"
